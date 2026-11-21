@@ -1,9 +1,6 @@
 name: Build Forma Windows release
 
 on:
-  push:
-    branches:
-      - 'arena/ac7e058e-scrapped-office'
   release:
     types: [published]
 
